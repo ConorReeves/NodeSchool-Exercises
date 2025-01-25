@@ -1,0 +1,1 @@
+/* This exercise is broken, it is not possible to verify due to broken dependency 'sprintf' */
